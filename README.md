@@ -1,0 +1,2 @@
+# BazySzkolaSrednia
+Projekt na zaliczenie
